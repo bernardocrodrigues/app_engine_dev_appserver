@@ -1,3 +1,3 @@
-# from my_cool_project.wsgi import application
+from my_cool_project.wsgi import application
 
-# app = application 
+app = application 
